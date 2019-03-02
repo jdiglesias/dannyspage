@@ -3,6 +3,15 @@ html{
   color: white;
 }
 
+#top-banner{
+  text-align: center;
+}
+
+section{
+  margin-left: 10vw;
+  margin-right: 10vw;
+}
+
 a{
   color: #00FE00;
 }
